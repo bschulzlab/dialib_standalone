@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "target": "n-glycosylation",
+      "ions": [
+        {
+          "mass": 0.0,
+          "name": "HexNAc",
+          "label": "y",
+          "number": "1"
+        },
+        {
+          "mass": 203.0794,
+          "name": "HexNAc",
+          "label": "y",
+          "number": "2"
+        },
+        {
+          "mass": 406.1588,
+          "name": "HexNAc",
+          "label": "y",
+          "number": "3"
+        }
+      ]
+    },
+    {
+      "target": "o-glycosylation",
+      "ions": [
+        {
+          "mass": 0.0,
+          "name": "Hex1",
+          "label": "y",
+          "number": "1"
+        },
+        {
+          "mass": 162.0528,
+          "name": "Hex1",
+          "label": "y",
+          "number": "2"
+        }
+      ]
+    },
+    {
+      "target": "Carboxylation",
+      "ions": [
+        {
+          "mass": 43.9898,
+          "name": "Hex1",
+          "label": "y",
+          "number": "1"
+        }
+      ]
+    }
+  ]
+}

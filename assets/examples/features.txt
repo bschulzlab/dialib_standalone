@@ -1,0 +1,4 @@
+start	stop	title	color
+11	54	Cytoplasmic	orange
+79	3649	Extracellular	lime
+3671	3726	Cytoplasmic	orange
